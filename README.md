@@ -1,7 +1,13 @@
 # ASRG-ANK
 Automotive Security Research Group - ANKARA
 
-![ETL (Electrical Tofas Lovers)](tofassahin.jpg)
+![ETLSG (Electrical Tofas Lovers Support Group)]()
+
+<img
+  src="tofassahin.jpg"
+  alt="ELT"
+  title="Electrical Tofas Lovers Support Group"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Understanding CAN Network
 ===
