@@ -1,6 +1,8 @@
 # ASRG-ANK
 Automotive Security Research Group - ANKARA
 
+![ETL (Electrical Tofas Lovers)](tofassahin.jpg)
+
 Understanding CAN Network
 ===
 ![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
